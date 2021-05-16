@@ -26,8 +26,8 @@ For 2021 Imperial HCDE Design Engineering project
 
 Image of hardware setup:
 
-[Hardware Setup Picture]: https://github.com/jackbeau/haptic_button/Images/hardware_picture.jpg
+![Hardware Setup Picture](Images/hardware_picture.jpg)
 
 Wiring diagram:
 
-[Wiring diagram]: https://github.com/jackbeau/haptic_button/Images/hardware_picture.jpg
+![Wiring diagram](Images/hardware_schematic.png)
